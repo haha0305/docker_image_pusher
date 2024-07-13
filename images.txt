@@ -1,3 +1,2 @@
 nginx
-nacos/nacos-server:2.3.2
-postgres:16.3
+nacos/nacos-server
